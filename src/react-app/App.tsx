@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="container">
-      <img src="/oc-winter-bash.png" alt="OC Winter Bash" className="main-image" />
+      <img src="/oc-winter-bash.png" alt="OC Tech Community Winter Bash event banner - December 16 at Mess Hall at Flight" className="main-image" />
     </div>
   );
 }
