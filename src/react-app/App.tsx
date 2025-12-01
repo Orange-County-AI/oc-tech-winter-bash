@@ -34,13 +34,13 @@ function App() {
 
       {/* Main content */}
       <div className="container">
-        <div className="frost-frame">
+        <a href="https://lu.ma/6l2v7qbu" target="_blank" rel="noopener noreferrer" className="frost-frame">
           <img
             src="/oc-winter-bash.png"
-            alt="OC Tech Community Winter Bash event banner - December 16 at Mess Hall at Flight"
+            alt="OC Tech Community Winter Bash event banner - December 16 at Mess Hall at Flight - Click to register"
             className="main-image"
           />
-        </div>
+        </a>
       </div>
 
       {/* Ground snow */}
